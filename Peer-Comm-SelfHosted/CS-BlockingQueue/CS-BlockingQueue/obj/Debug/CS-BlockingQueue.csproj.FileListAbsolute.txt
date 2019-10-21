@@ -1,0 +1,6 @@
+C:\SU\CSE681-OnLine\Repository\WCFExamples\Peer-Comm-SelfHosted\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe.config
+C:\SU\CSE681-OnLine\Repository\WCFExamples\Peer-Comm-SelfHosted\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.exe
+C:\SU\CSE681-OnLine\Repository\WCFExamples\Peer-Comm-SelfHosted\CS-BlockingQueue\CS-BlockingQueue\bin\Debug\CS-BlockingQueue.pdb
+C:\SU\CSE681-OnLine\Repository\WCFExamples\Peer-Comm-SelfHosted\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.csprojResolveAssemblyReference.cache
+C:\SU\CSE681-OnLine\Repository\WCFExamples\Peer-Comm-SelfHosted\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.exe
+C:\SU\CSE681-OnLine\Repository\WCFExamples\Peer-Comm-SelfHosted\CS-BlockingQueue\CS-BlockingQueue\obj\Debug\CS-BlockingQueue.pdb

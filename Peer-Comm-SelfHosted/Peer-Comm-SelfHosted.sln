@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communication", "Communication\Communication.csproj", "{9DC86AAC-C625-4BCD-8011-9D36551C4320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peer-Comm", "Peer-Comm\Peer-Comm.csproj", "{B8C42175-8B41-4BA3-8D77-0FB636C3723B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS-BlockingQueue", "CS-BlockingQueue\CS-BlockingQueue\CS-BlockingQueue.csproj", "{2B18C238-3961-44BE-8813-0D4A8DC89FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC86AAC-C625-4BCD-8011-9D36551C4320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC86AAC-C625-4BCD-8011-9D36551C4320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC86AAC-C625-4BCD-8011-9D36551C4320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC86AAC-C625-4BCD-8011-9D36551C4320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C42175-8B41-4BA3-8D77-0FB636C3723B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C42175-8B41-4BA3-8D77-0FB636C3723B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C42175-8B41-4BA3-8D77-0FB636C3723B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C42175-8B41-4BA3-8D77-0FB636C3723B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B18C238-3961-44BE-8813-0D4A8DC89FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B18C238-3961-44BE-8813-0D4A8DC89FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B18C238-3961-44BE-8813-0D4A8DC89FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B18C238-3961-44BE-8813-0D4A8DC89FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

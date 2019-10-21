@@ -1,0 +1,64 @@
+﻿<!--
+=========================================================================
+  Window1.xaml - WPF Interface for WCF Communicator
+  
+  Jim Fawcett, CSE681 - Software Modeling & Analysis, Fall 2011
+=========================================================================
+-->
+<Window x:Class="WPF_GUI.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Unloaded="Window_Unloaded"
+    Title="Window1" Height="626" Width="655" >
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="40" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="40" />
+      <RowDefinition Height="*" />
+    </Grid.RowDefinitions>
+    <StackPanel Grid.Row="0" Orientation="Horizontal">
+      <TextBox Height="23" Width="320" Margin="30 0" Name="RemoteAddressTextBox" VerticalAlignment="Center">
+        http://localhost</TextBox>
+      <TextBox Height="23" Margin="20,0" Name="RemotePortTextBox" VerticalAlignment="Center" Width="78"
+               HorizontalContentAlignment="Center">4000</TextBox>
+      <TextBox Height="23" Margin="20,0" Name="LocalPortTextBox" VerticalAlignment="Center" Width="78"
+               HorizontalContentAlignment="Center">4000</TextBox>
+    </StackPanel>
+    <StackPanel Grid.Row="1" Orientation="Horizontal">
+      <Label Height="28" Width="320" Margin="30,0" Name="label1" VerticalAlignment="Center"
+             BorderThickness="1" Background="Wheat" HorizontalContentAlignment="Center">
+        Enter Remote machine address, remote port, local port
+      </Label>
+      <Button Height="23" Margin="20,0" Name="ConnectButton" VerticalAlignment="Center"
+              Width="78" Click="ConnectButton_Click">Connect</Button>
+      <Button Height="23" Margin="20,0" Name="ListenButton" VerticalAlignment="Center"
+              Width="78" Click="ListenButton_Click">Listen</Button>
+    </StackPanel>
+    <StackPanel Grid.Row="2" Orientation="Horizontal">
+      <Label Height="28" Margin="30,0" Name="label4" VerticalAlignment="Center" Width="320"
+             HorizontalContentAlignment="Center" Background="Wheat">Enter Message Below</Label>
+      <Button Height="23" Margin="50,0" Name="SendButton" VerticalAlignment="Center" Width="120"
+              Click="SendMessageButton_Click">Send Message</Button>
+    </StackPanel>
+    <TextBox Grid.Row="3" Height="28" Margin="30 0 30 0" Name="SendMsgTextBox" VerticalAlignment="Center">
+      a message</TextBox>
+    <Grid Grid.Row="4">
+      <Label Height="28" Margin="30,0" Name="label3" VerticalAlignment="Center"
+             HorizontalAlignment="Right" Width="210" HorizontalContentAlignment="Center">
+        Received Messages</Label>
+      <Label Height="28" Margin="30,0" Name="label2" VerticalAlignment="Center"
+             HorizontalAlignment="Left" Width="210" HorizontalContentAlignment="Center">
+        Sent Messages</Label>
+    </Grid>
+    <Grid Grid.Row="5">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition />
+        <ColumnDefinition />
+      </Grid.ColumnDefinitions>
+      <ListBox Grid.Column="0" Margin="30, 20, 15, 20" Name="listBox1" />
+      <ListBox Grid.Column="1" Margin="15, 20, 30, 20" Name="listBox2" />
+    </Grid>
+  </Grid>
+</Window>

@@ -1,0 +1,20 @@
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\bin\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\bin\Debug\IService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\obj\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\obj\Debug\IService.pdb
+C:\Users\jim\Desktop\BasicService - Declarative\IService\bin\Debug\IService.dll
+C:\Users\jim\Desktop\BasicService - Declarative\IService\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\BasicService - Declarative\IService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\BasicService - Declarative\IService\obj\Debug\IService.dll
+C:\Users\jim\Desktop\BasicService - Declarative\IService\obj\Debug\IService.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\IService\bin\Debug\IService.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\IService\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\IService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\IService\obj\Debug\IService.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\IService\obj\Debug\IService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Declarative\IService\bin\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Declarative\IService\bin\Debug\IService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Declarative\IService\obj\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Declarative\IService\obj\Debug\IService.pdb
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Declarative\IService\obj\Debug\IService.csprojResolveAssemblyReference.cache

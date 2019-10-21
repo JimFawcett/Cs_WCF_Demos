@@ -1,0 +1,45 @@
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\bin\Debug\ServiceClient.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\bin\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\bin\Debug\IService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\Users\jim\Desktop\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\jim\Desktop\BasicService - Programmatic\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\ServiceClient\bin\Debug\IService.dll
+C:\Users\jim\Desktop\BasicService - Programmatic\ServiceClient\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\bin\Debug\ServiceClient.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\bin\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\bin\Debug\IService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\CSE681 Notes\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ServiceClient.exe
+F:\CSE681 Notes\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\bin\Debug\IService.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\ServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\bin\Debug\ServiceClient.exe
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\bin\Debug\IService.dll
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\bin\Debug\IService.pdb
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\obj\x86\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\bin\Debug\ServiceClient.exe
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\bin\Debug\IService.dll
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\bin\Debug\IService.pdb
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\obj\x86\Debug\ServiceClient.csprojAssemblyReference.cache
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\obj\x86\Debug\ServiceClient.csproj.CopyComplete
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\ServiceClient\obj\x86\Debug\ServiceClient.pdb

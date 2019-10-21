@@ -1,0 +1,9 @@
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\FileService-SelfHost\FileServiceClient\bin\Debug\FileServiceClient.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\FileService-SelfHost\FileServiceClient\bin\Debug\FileServiceClient.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\FileService-SelfHost\FileServiceClient\obj\x86\Debug\FileServiceClient.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\FileService-SelfHost\FileServiceClient\obj\x86\Debug\FileServiceClient.pdb
+C:\SU\CSE681-OnLine\Repository\WCFExamples\FileService-SelfHost\FileServiceClient\bin\Debug\FileServiceClient.exe
+C:\SU\CSE681-OnLine\Repository\WCFExamples\FileService-SelfHost\FileServiceClient\bin\Debug\FileServiceClient.pdb
+C:\SU\CSE681-OnLine\Repository\WCFExamples\FileService-SelfHost\FileServiceClient\obj\x86\Debug\FileServiceClient.csprojResolveAssemblyReference.cache
+C:\SU\CSE681-OnLine\Repository\WCFExamples\FileService-SelfHost\FileServiceClient\obj\x86\Debug\FileServiceClient.exe
+C:\SU\CSE681-OnLine\Repository\WCFExamples\FileService-SelfHost\FileServiceClient\obj\x86\Debug\FileServiceClient.pdb

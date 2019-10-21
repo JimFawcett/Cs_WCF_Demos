@@ -1,0 +1,70 @@
+
+                                             CodeAnalysis
+    ==============================================================================================
+     Thu Oct 27 16:39:24 2016
+     Path: C:\SU\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\FileService-SelfHost
+     Args: *.cs, /m, /f, /r
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      59
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                 Client.cs   namespace                FileTransferService      28      82      12
+                 Client.cs       class                             Client      30      80      11
+                 Client.cs    function                      CreateChannel      32       6       1
+                 Client.cs    function                           SendFile      39      28       4
+                 Client.cs    function                              catch      62       4       1
+                 Client.cs      lambda                           []args)
+      68      40       5
+                 Client.cs   namespace                FileTransferService      28      82      12
+                 Client.cs       class                             Client      30      80      11
+                 Client.cs    function                      CreateChannel      32       6       1
+                 Client.cs    function                           SendFile      39      28       4
+                 Client.cs    function                              catch      62       4       1
+                 Client.cs      lambda                           []args)
+      68      40       5
+                 Client.cs   namespace                FileTransferService      28      82      12
+                 Client.cs       class                             Client      30      80      11
+                 Client.cs    function                      CreateChannel      32       6       1
+                 Client.cs    function                           SendFile      39      28       4
+                 Client.cs    function                              catch      62       4       1
+                 Client.cs      lambda                           []args)
+      68      40       5
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            FileService.cs   namespace                FileTransferService      29      74      14
+            FileService.cs       class                        FileService      32      71      13
+            FileService.cs    function                  SetServerFilePath      38       3       1
+            FileService.cs    function                   OpenFileForWrite      42      17       3
+            FileService.cs      lambda                          []block)
+      60      10       3
+            FileService.cs    function                          CloseFile      71       9       3
+            FileService.cs    function                      CreateChannel      81       8       1
+            FileService.cs      lambda                           []args)
+      90      11       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           IFileService.cs   namespace                FileTransferService      11      14       2
+           IFileService.cs      lambda  [ServiceContract(Namespace="FileT      14      10       1
+           IFileService.cs   namespace                FileTransferService      11      14       2
+           IFileService.cs      lambda  [ServiceContract(Namespace="FileT      14      10       1
+           IFileService.cs   namespace                FileTransferService      11      14       2
+           IFileService.cs      lambda  [ServiceContract(Namespace="FileT      14      10       1
+           IFileService.cs   namespace                FileTransferService      11      14       2
+           IFileService.cs      lambda  [ServiceContract(Namespace="FileT      14      10       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+    searched    22 dirs
+   processed    10 files

@@ -1,0 +1,56 @@
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\bin\Debug\ServiceClient.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\bin\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\bin\Debug\IService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\Users\jim\Desktop\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\jim\Desktop\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\BasicService - Declarative\ServiceClient\bin\Debug\IService.dll
+C:\Users\jim\Desktop\BasicService - Declarative\ServiceClient\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\BasicService - Declarative\ServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\bin\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\bin\Debug\IService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\bin\Debug\IService.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\Users\jim\Desktop\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\Users\jim\Desktop\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\jim\Desktop\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\jim\Desktop\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\IService.dll
+C:\Users\jim\Desktop\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\IService.dll
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\IService.pdb
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.pdb
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.exe
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\IService.dll
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\bin\Debug\IService.pdb
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.csprojAssemblyReference.cache
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.csproj.CopyComplete
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.exe
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedWsHttpServices\BasicService - Declarative\ServiceClient\obj\x86\Debug\ServiceClient.pdb

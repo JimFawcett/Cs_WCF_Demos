@@ -1,0 +1,15 @@
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client0\bin\Debug\Client0.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client0\bin\Debug\Client0.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client0\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client0\obj\Debug\Client0.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_WSHttpMessagePassing\Client0\obj\Debug\Client0.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client0\obj\Debug\Client0.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client0\obj\Debug\Client0.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client0\bin\Debug\Client0.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client0\bin\Debug\Client0.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_MessagePassingComm\Client0\obj\Debug\ResolveAssemblyReference.cache
+C:\SU\CSE681-OnLine\Repository\WCFExamples\WCF_MessagePassingComm\Client0\bin\Debug\Client0.exe
+C:\SU\CSE681-OnLine\Repository\WCFExamples\WCF_MessagePassingComm\Client0\bin\Debug\Client0.pdb
+C:\SU\CSE681-OnLine\Repository\WCFExamples\WCF_MessagePassingComm\Client0\obj\Debug\Client0.csprojResolveAssemblyReference.cache
+C:\SU\CSE681-OnLine\Repository\WCFExamples\WCF_MessagePassingComm\Client0\obj\Debug\Client0.exe
+C:\SU\CSE681-OnLine\Repository\WCFExamples\WCF_MessagePassingComm\Client0\obj\Debug\Client0.pdb

@@ -1,0 +1,9 @@
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\service\bin\service.exe.config
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\service\bin\service.exe
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\service\bin\service.pdb
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\service\obj\Debug\ResolveAssemblyReference.cache
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\service\obj\Debug\service.exe
+C:\SU\CSE775\CODE\WCF samples\Basic\Service\Hosting\SelfHost\CS\service\obj\Debug\service.pdb
+C:\SU\CSE775\CODE\WCF_SelfHost\service\bin\service.exe.config
+C:\SU\CSE775\CODE\WCF_SelfHost\service\obj\Debug\service.exe
+C:\SU\CSE775\CODE\WCF_SelfHost\service\obj\Debug\service.pdb

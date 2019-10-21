@@ -1,0 +1,9 @@
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\FileService-SelfHost\FileTransferService\bin\Debug\FileTransferService.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\FileService-SelfHost\FileTransferService\bin\Debug\FileTransferService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\FileService-SelfHost\FileTransferService\obj\x86\Debug\FileTransferService.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\FileService-SelfHost\FileTransferService\obj\x86\Debug\FileTransferService.pdb
+C:\SU\CSE681-OnLine\Repository\WCFExamples\FileService-SelfHost\FileTransferService\bin\Debug\FileTransferService.exe
+C:\SU\CSE681-OnLine\Repository\WCFExamples\FileService-SelfHost\FileTransferService\bin\Debug\FileTransferService.pdb
+C:\SU\CSE681-OnLine\Repository\WCFExamples\FileService-SelfHost\FileTransferService\obj\x86\Debug\FileTransferService.csprojResolveAssemblyReference.cache
+C:\SU\CSE681-OnLine\Repository\WCFExamples\FileService-SelfHost\FileTransferService\obj\x86\Debug\FileTransferService.exe
+C:\SU\CSE681-OnLine\Repository\WCFExamples\FileService-SelfHost\FileTransferService\obj\x86\Debug\FileTransferService.pdb

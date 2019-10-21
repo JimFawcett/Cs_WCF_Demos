@@ -1,0 +1,25 @@
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\bin\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\bin\Debug\IService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\obj\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\obj\Debug\IService.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\IService\bin\Debug\IService.dll
+C:\Users\jim\Desktop\BasicService - Programmatic\IService\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\IService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\BasicService - Programmatic\IService\obj\Debug\IService.dll
+C:\Users\jim\Desktop\BasicService - Programmatic\IService\obj\Debug\IService.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\IService\bin\Debug\IService.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\IService\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\IService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\IService\obj\Debug\IService.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\IService\obj\Debug\IService.pdb
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\IService\bin\Debug\IService.dll
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\IService\bin\Debug\IService.pdb
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\IService\obj\Debug\IService.csprojResolveAssemblyReference.cache
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\IService\obj\Debug\IService.dll
+C:\su\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\IService\obj\Debug\IService.pdb
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\IService\bin\Debug\IService.dll
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\IService\bin\Debug\IService.pdb
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\IService\obj\Debug\IService.csprojAssemblyReference.cache
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\IService\obj\Debug\IService.dll
+C:\github\JimFawcett\Cs_WCF_Demos\HandCraftedBasicHttpServices\BasicService - Programmatic Version 2\IService\obj\Debug\IService.pdb
